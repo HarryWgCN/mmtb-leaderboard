@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mmtb-leaderboard/static/css/main.973b26c0.css",
-    "main.js": "/mmtb-leaderboard/static/js/main.f27df04f.js",
+    "main.js": "/mmtb-leaderboard/static/js/main.87bc5a3f.js",
     "index.html": "/mmtb-leaderboard/index.html",
     "main.973b26c0.css.map": "/mmtb-leaderboard/static/css/main.973b26c0.css.map",
-    "main.f27df04f.js.map": "/mmtb-leaderboard/static/js/main.f27df04f.js.map"
+    "main.87bc5a3f.js.map": "/mmtb-leaderboard/static/js/main.87bc5a3f.js.map"
   },
   "entrypoints": [
     "static/css/main.973b26c0.css",
-    "static/js/main.f27df04f.js"
+    "static/js/main.87bc5a3f.js"
   ]
 }
