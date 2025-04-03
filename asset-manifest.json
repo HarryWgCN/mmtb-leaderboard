@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.973b26c0.css",
-    "main.js": "/react-gh-pages/static/js/main.f72190d2.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.973b26c0.css.map": "/react-gh-pages/static/css/main.973b26c0.css.map",
-    "main.f72190d2.js.map": "/react-gh-pages/static/js/main.f72190d2.js.map"
+    "main.css": "/mmtb-leaderboard/static/css/main.973b26c0.css",
+    "main.js": "/mmtb-leaderboard/static/js/main.f27df04f.js",
+    "index.html": "/mmtb-leaderboard/index.html",
+    "main.973b26c0.css.map": "/mmtb-leaderboard/static/css/main.973b26c0.css.map",
+    "main.f27df04f.js.map": "/mmtb-leaderboard/static/js/main.f27df04f.js.map"
   },
   "entrypoints": [
     "static/css/main.973b26c0.css",
-    "static/js/main.f72190d2.js"
+    "static/js/main.f27df04f.js"
   ]
 }
